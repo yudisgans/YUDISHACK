@@ -1,0 +1,11 @@
+<?php
+/*
+		    TERIMA KASIH TELAH ENCODE DI DUNGCODEX
+			LINK TOOLS : https://DungChodex.com
+			WHATSAPP :081234210466
+			MAU DECODE? HUBUNGI NO DI ATAS / WEBSITE
+*/
+$Arch = "ZXZhbCgiPz4iLmd6dW5jb21wcmVzcyhnenVuY29tcHJlc3MoZ3ppbmZsYXRlKGd6aW5mbGF0ZShnemluZmxhdGUoYmFzZTY0X2RlY29kZShzdHJyZXYoJENvZGV4KSkpKSkpKSk7";
+$Codex = "oaXU19iiHaAA/5VrmB+aLp6c8JAqGwxXFXqvT5KhPIkEcqd8Hm740J73jrxOCZceUqVWBn17MOrjx8r0uSZ2ZcryfgPtjlMat7IPfgMxu94x0NSPrbEI71ZttBYzGe2ezTbloE+uVKO6zX18lTAw6qBqMMDhTwboYQTzcoi/eGxlcey063mPVUorXc2oFhNllG6E+6rHssWTsBC77OcA1BfKYQhPvWHJUOvaWXDFLF0d9Zq7PZU6Z1n7c8+h56unqvHIkd562nuUolWKa2d7JeExpNiQT0ioTuZcuTHlcQEUH6/BfXIFwI8aR9Yhci3/UAw6BwJe/nAA2Hw/EAw+B4//BAQA";
+echo gzuncompress(gzuncompress(gzinflate(gzinflate(gzinflate(base64_decode(strrev($Codex)))))));
+?>
